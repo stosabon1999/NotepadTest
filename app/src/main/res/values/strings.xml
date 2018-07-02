@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NotepadTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create">Создать</string>
+    <string name="swap">Свап фрагмент</string>
+    <string name="add">Добавить</string>
+    <string name="edit">Редактировать</string>
+    <string name="subtitle">subtitle</string>
+    <string name="title">title</string>
+    <string name="update">Обновить</string>
+    <string name="settings">Настройки</string>
+    <string name="color">Цвет текста</string>
+    <string name="black">черный</string>
+    <string name="green">зеленый</string>
+    <string name="red">красный</string>
+</resources>
